@@ -1,0 +1,7 @@
+{
+  "name": "FreshHarvest Market",
+  "description": "A modern, fresh, and community-focused website for FreshHarvest Market, your local neighborhood grocery and fresh produce store.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
